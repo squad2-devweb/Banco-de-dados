@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF0202D7&background=0D15C018&center=true&vCenter=true&width=435&lines=Dashboard+Temporal;+Dataset+from+Super;+Mario+Maker!" alt="Typing SVG" /></a>
+</P>
+
 ## Sobre o Projeto: :pen:
 
 Somos o Squad 02 e nesse projeto nós montamos um dashboard com base no conjunto de dados do Temporal Dataset from Super Mario Maker, a fim de realizar uma
@@ -6,20 +10,24 @@ apresentação com a exploração dos dados.
 ## Objetivos: 🚀
 O objetivo aqui é apresentar uma solução capaz de facilitar a manipulação, filtragem e pesquisa dos dados. Facilitando ainda o gerenciamento e a compreensão dos dados.
 
-## Requisitos: :book:
+ ## Requisitos: :book:
 
- - Realizar carga no banco:
-Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.
- Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados:
+> Ideação/Brainstorm sobre perguntas que podem ser respondidas pelos dados: Análise o conjunto de dados selecionado para que as perguntas sejam pertinentes. :heavy_check_mark:
 
-- Analise o conjunto de dados selecionado para que as perguntas sejam pertinentes. As perguntas geradas nesta etapa impactam diretamente as demais.
- Criar visualizações:
+> Estruturar o esquema do banco de dados: Apartir da avaliação do conjunto de dados fornecidos, modelar as tabelas do banco. Note que não é necessário mapear todas as colunas de todas as tabelas. Mantenha sua implementação simples construindo um modelo que atende às perguntas elaboradas pelo grupo. :heavy_check_mark:
+ 
+> Realizar carga no banco: Com base no esquema desenhado e criado, subir os dados presentes nos arquivos para o banco de dados a fim de verificar o funcionamento da solução encontrada.:heavy_check_mark:
 
-- Com base nas perguntas elaboradas aqui poderíamos usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc) para criar uma visualização dos dados.
- Montar uma apresentação:
-A partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado, criar a apresentação de slides e planejamento de apresentação. 
+> Criar visualizações dos dados com base nas perguntas elaboradas: aqui vocês podem usar planilhas (Excel / Google), Metabase, Tableau, Power Bi, etc.:heavy_check_mark:
 
-                                                                  <h1 align="center">Super Mario Maker</h1> 
+> Montar uma apresentação a partir das perguntas e análise exploratória feita em cima do conjunto de dados selecionado.:heavy_check_mark:
+
+ ## Requisitos Extras
+ > Utilize consultas com diversidade de operações: filtragem múltipla, agregação, subconsultas, ordenação, joins, etc. :warning:
+ 
+
+
+ <h2 align="center">🔗 Super Mario Maker</h2> 
                                                                 
        
 
@@ -30,12 +38,16 @@ A partir das perguntas e análise exploratória feita em cima do conjunto de dad
 
 ## Ferramentas Utilizadas: 🛠
 
-- MySQL
-- XAMPP
-- Excel
-- Discord/Whatsapp
-- DbDiagram
-- Canva
-- GitHub
-- Dataset
+- [x] MySQL
+- [x] XAMPP
+- [x] Excel
+- [x] Discord/Whatsapp
+- [x] DbDiagram
+- [x] Canva
+- [x] GitHub
+- [x] Dataset
+
+
+
+
 
