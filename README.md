@@ -54,7 +54,7 @@ O objetivo aqui é apresentar uma solução capaz de facilitar a manipulação, 
 | [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/Perfil%20Live%202.0.png" width=115 > <br> <sub> Lucas Oliveira </sub>](https://github.com/LzLuscas) |
 | [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303134614.png" width=115 > <br> <sub> Emanuella Viera </sub>](https://github.com/MBrito0) |
  [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303131214.png" width=115 > <br> <sub> Viviane Moreira </sub>](https://github.com/vivianefrts) |
-[<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303134122.png" width=115 > <br> <sub> Ramon Souza </sub>] (https://github.com/ramonsolfer) |
-| [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303133634.png" width=115 > <br> <sub> Julio Xavier </sub>](https://github.com/Julioxli) |
+ [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303133634.png" width=115 > <br> <sub> Julio Xavier </sub>](https://github.com/Julioxli) |
+  [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303134122.png" width=115 > <br> <sub> Ramon Souza </sub>](https://github.com/ramonsolfer) |
 
 
