@@ -6,7 +6,7 @@ CREATE TABLE `courses` (
   `title` varchar(255),
   `thumbnail` varchar(255),
   `image` varchar(255),
-  `creation` datetime
+  `creation` datetime default current_timestamp
 );
 
 CREATE TABLE `players` (
@@ -19,7 +19,7 @@ CREATE TABLE `players` (
 CREATE TABLE `course_meta` (
   `id` varchar(255),
   `firstClear` varchar(255),
-  `catch` timestamp,
+  `catch` datetime default current_timestamp,
   `tag` varchar(255),
   `stars` int,
   `players` int,
@@ -32,25 +32,25 @@ CREATE TABLE `course_meta` (
 CREATE TABLE `plays` (
   `id` varchar(255),
   `player` varchar(255),
-  `catch` timestamp
+  `catch` datetime default current_timestamp
 );
 
 CREATE TABLE `clears` (
   `id` varchar(255),
   `player` varchar(255),
-  `catch` timestamp
+  `catch` datetime default current_timestamp
 );
 
 CREATE TABLE `likes` (
   `id` varchar(255),
   `player` varchar(255),
-  `catch` timestamp
+  `catch` datetime default current_timestamp
 );
 
 CREATE TABLE `records` (
   `id` varchar(255),
   `player` varchar(255),
-  `catch` timestamp,
+  `catch` datetime default current_timestamp,
   `timeRecord` float
 );
 
