@@ -47,6 +47,13 @@ O objetivo aqui é apresentar uma solução capaz de facilitar a manipulação, 
 - [x] GitHub
 - [x] Dataset
 
+
+## Diagrama 
+
+![Sistema de acompanhamento (1)](https://user-images.githubusercontent.com/115565161/224810959-cfd41387-e178-414e-bbea-eedc60806326.png)
+
+
+
 ## Colaboradores 
     
 | [<img src="https://github.com/squad2-devweb/Banco-de-dados/blob/main/imagens-animadas-perfil/download20230303133012.png" width=115 > <br> <sub> Luis Felipe </sub>](https://github.com/LuisDevLipe) |
