@@ -54,7 +54,6 @@ O objetivo aqui é apresentar uma solução capaz de facilitar a manipulação, 
 
 ![Sistema de acompanhamento (1)](https://user-images.githubusercontent.com/115565161/224810959-cfd41387-e178-414e-bbea-eedc60806326.png)
 
-#odio
 
 
 ## Colaboradores 
