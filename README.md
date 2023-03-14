@@ -2,8 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=FF0202D7&background=0D15C018&center=true&vCenter=true&width=435&lines=Dashboard+Temporal;+Dataset+from+Super;+Mario+Maker!" alt="Typing SVG" /></a>
 </P>
 
-## Link da apresentação do Squad2:
-http://bit.ly/3Fn3B5E
+ # [<sub> Link da Apresentação do Squad 2</sub>](http://bit.ly/3Fn3B5E) 
 
 ## Sobre o Projeto: :pen:
 
